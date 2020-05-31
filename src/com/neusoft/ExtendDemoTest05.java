@@ -11,7 +11,7 @@ public class ExtendDemoTest05 {
         // 子类中有show 只会执行重写后的show
         zi.show();
 
-        
+
 
     }
 }
